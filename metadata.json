@@ -1,0 +1,5 @@
+{
+  "name": "Agent Zero Analytics",
+  "description": "A real-time analytics dashboard for Agent Zero chat interfaces, featuring message volume tracking, sentiment analysis, and user engagement metrics.",
+  "requestFramePermissions": []
+}
